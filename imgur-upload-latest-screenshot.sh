@@ -1,9 +1,5 @@
 #!/bin/bash
 
-# Upload Latest Screenshot to Imgur
-# Fahim Faisal
-# Code is free to use. Do whatever you want with it
-
 # Required parameters:
 # @raycast.schemaVersion 1
 # @raycast.title Upload Latest Screenshot to Imgur
