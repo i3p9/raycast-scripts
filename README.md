@@ -15,12 +15,19 @@ It does two things:
 
 A very simple script to upload the latest screenshot you have to Imgur and copy the uploaded image link to clipboard.
 
-Instruction: Grab the `last2imgur.sh` from the repo and put it in your Raycast Scripts folder. That should be all. 
+Instruction: Grab the `last2imgur.sh` from the repo and put it in your Raycast Scripts folder. That should be all.
 
 ## `screenshot-and-imgur.sh`
 
 Launches the native screenshot interface selection, when done, uploads the image to Imgur, copies link to clipboard.
 
 Notes: When you run it for the first time, Raycast will ask for screensharing permission, after giving the permission, it'll start working from the second time and onwards.
+
+## `install-script.sh`
+
+Simple script to install Raycast script from the internet. Simple copy the link to the script, and launch this script and after making sure its a valid Raycast Script, it'll be saved to your Scripts folder.
+
+Note: Since there's no way to find which is *your* scripts folder, you have to manually edit the line in
+
 
 ![](https://i.imgur.com/ntskPP8.gif)
