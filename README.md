@@ -2,6 +2,19 @@
 
 ### My collection of various Raycast scripts I've made to automate stuff
 
+## `battery-info.sh`
+
+Quick look at the battery related info. It shows in a line:
+
+* Current Battery percentage
+* Time remaining for battery depleating
+* Charging status, along with charger watts if charging
+* Battery health percentage
+* Battery total cycle
+<img width="783" alt="image" src="https://user-images.githubusercontent.com/8825262/219951010-155a5d88-9bc1-4ed7-81f6-3c6d5e9aa298.png">
+<img width="782" alt="image" src="https://user-images.githubusercontent.com/8825262/219951017-dd98188c-eac6-4256-9719-a9d038a62726.png">
+
+
 ## `clipboard-upload-to-imgur.sh`
 
 It does two things:
