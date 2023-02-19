@@ -7,12 +7,12 @@
 Quick look at the battery related info. It shows in a line:
 
 * Current Battery percentage
-* Time remaining for battery depleating
+* Time remaining, (time to fully charged if plugged, time to depleate battery if on battery)
 * Charging status, along with charger watts if charging
 * Battery health percentage
 * Battery total cycle
-<img width="783" alt="image" src="https://user-images.githubusercontent.com/8825262/219951010-155a5d88-9bc1-4ed7-81f6-3c6d5e9aa298.png">
-<img width="782" alt="image" src="https://user-images.githubusercontent.com/8825262/219951017-dd98188c-eac6-4256-9719-a9d038a62726.png">
+<img width="771" alt="image" src="https://user-images.githubusercontent.com/8825262/219951079-ac917aef-2772-4d64-b931-0acbdd5c5876.png">
+<img width="769" alt="image" src="https://user-images.githubusercontent.com/8825262/219951277-3dd27ef5-c987-4287-adb3-38cd86997f8a.png">
 
 
 ## `clipboard-upload-to-imgur.sh`
